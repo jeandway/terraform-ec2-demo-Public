@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Local variables files
+*.tfvars
+*.tfvars.json
+
+# Mac junk
+.DS_Store
